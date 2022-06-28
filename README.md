@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Alex Barrales Araneda. I am an Industrial Engineer graduated from the University of Bío-Bío 🧑‍🎓. I’m currently working on the University of Bío-Bío 🏛
+### Hi there 👋, my name is Alex Barrales Araneda. I am an Industrial Engineer graduated from the University of Bío-Bío 🧑‍🎓. I’m currently working at the  University of Bío-Bío 🏛.
 
 <!--
 **alexfabianb94/alexfabianb94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
